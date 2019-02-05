@@ -4,7 +4,7 @@ h1 {
 
 .header {
   background-color: #faa;
-  height: 60px;
+  height: 80px;
 }
 
 .header-logo {
@@ -13,8 +13,10 @@ h1 {
 }
 
 .header-list li {
+  list-style: none;
   font-size: 20px;
   float: left;
+  padding: 10px 20px;
 }
 
 .header span {
