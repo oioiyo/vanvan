@@ -5,7 +5,7 @@ h1 {
 .headder {
   background-color: #faa;
   height: 400px;
-  
+  float: left;
 }
 
 .headder img {
