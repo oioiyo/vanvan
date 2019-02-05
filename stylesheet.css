@@ -1,3 +1,11 @@
 h1 {
   color: red;  
 }
+
+.headder {
+  background-color: #faa;
+}
+
+.headder span {
+    color: black;
+}
