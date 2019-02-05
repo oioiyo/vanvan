@@ -10,14 +10,12 @@ h1 {
 .header-logo {
   font-size: 40px;
   float: left;
-  padding: 5px 10px;
 }
 
 .header-list li {
   list-style: none;
   font-size: 20px;
   float: left;
-  padding: 10px 20px;
 }
 
 .header span {
