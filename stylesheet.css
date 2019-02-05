@@ -4,8 +4,13 @@ h1 {
 
 .headder {
   background-color: #faa;
-  height: 60px;
+  height: 400px;
   
+}
+
+.headder img {
+  width: 400px;
+  height: 400px;
 }
 
 .headder span {
