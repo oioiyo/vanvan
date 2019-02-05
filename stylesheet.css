@@ -8,14 +8,14 @@ h1 {
 }
 
 .header-logo {
-  font-size: 40px;
   float: left;
+  padding: 5px 20px;
 }
 
 .header-list li {
   list-style: none;
-  font-size: 20px;
   float: left;
+  padding: 15px 30px;
 }
 
 .header span {
